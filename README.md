@@ -56,7 +56,7 @@ $ yarn start
 ```
 ## EndPoints
 
-<p>This app consumes this statis API, according the course<p>
+<p>This app consumes this static API, according the course<p>
 
 | NOME         | ENDPOINT                                                                      |
 | ------------ | ----------------------------------------------------------------------------- |
