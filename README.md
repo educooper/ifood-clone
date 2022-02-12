@@ -69,7 +69,7 @@ $ yarn start
     
 ## Screens
 
-![plot](ifood-clone.PNG)
+![Initial screens from project](app-ifood-01.PNG)
     
 Thanks very munch [Digital Innovation One](https://web.digitalinnovation.one/) for this opportunity!
 
